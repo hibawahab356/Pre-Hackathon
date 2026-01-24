@@ -1,0 +1,10 @@
+
+:root{
+    --primarycolor: #1090CB;
+}
+
+/* navbar start */
+.bluebtn{
+    background-color: var(--primarycolor);
+    border: none !important;
+}

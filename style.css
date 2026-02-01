@@ -8,3 +8,10 @@
     background-color: var(--primarycolor);
     border: none !important;
 }
+
+
+
+/* hero start */
+.heading{
+    color: var(--primarycolor);
+}

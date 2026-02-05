@@ -32,9 +32,35 @@
 
 .imgfix{
   width: 300px;
+ 
 }
 
 
+.boxfit{
+     width: 450px;
+     display: flex;
+     flex-direction: column;
+     gap: 50px !important;
+     padding: 33px;
+}
+.greybox{
+    background-color: #F4F4F4;
+     color: black;
+    
+}
+
+.colorbox{
+     color: black !important;
+}
+
+.bluebox{
+    background-color: #1090CB;
+    color: white;
+    
+}
+.boxcolor{
+    color: white !important;
+}
 
 
 

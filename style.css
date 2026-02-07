@@ -68,16 +68,28 @@
 .purple{
     position: absolute;
     
-    right: 0px;
+    right: 12px;
 }
 
 .lightyellow{
   
     position: absolute;
-    
-    left: 0px;
+    left: -51px;
+    opacity: 66%;
 }
 
+.icon{
+   
+    position: absolute;
+    right: -28px;
+    top: -76px;
+}
+
+.purple2{
+    position: absolute;
+     right: 12px;
+     opacity: 66%;
+}
 .boxfit{
      width: 450px;
      display: flex;

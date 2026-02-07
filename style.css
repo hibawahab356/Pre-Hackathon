@@ -14,6 +14,36 @@
 /* hero start */
 .heading{
     color: var(--primarycolor);
+
+}
+
+
+.color{
+    background: #1090CB1A;
+
+}
+
+.shape{
+    background-image: url(./images/Ellipse\ 2.svg);
+    background-repeat: no-repeat;
+    
+}
+
+.yellow{
+     background-image: url(./images/yellow\ light.svg);
+    background-repeat: no-repeat;
+}
+
+.blue{
+    position: absolute;
+    top: 200px;
+    left: 0px;
+}
+
+.darkblue{
+    position: absolute;
+    top: 150px;
+    right: 0px;
 }
 /* hero end */
 
@@ -35,6 +65,18 @@
  
 }
 
+.purple{
+    position: absolute;
+    
+    right: 0px;
+}
+
+.lightyellow{
+  
+    position: absolute;
+    
+    left: 0px;
+}
 
 .boxfit{
      width: 450px;
@@ -110,6 +152,13 @@
 .caspioimg{
     width: 167px;
     background-color: white;
+}
+
+
+
+.text{
+    background: #E8F4FA;
+
 }
 
 
